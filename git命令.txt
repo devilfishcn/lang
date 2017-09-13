@@ -1,0 +1,3 @@
+廖雪峰教程：
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+撤销命令：命令git checkout -- readme.txt意思就是，把readme.txt文件在工作区的修改全部撤销
