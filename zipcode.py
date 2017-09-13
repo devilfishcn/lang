@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 names =['zhangsan','lisi','wangwu']
-letters = [len(n) for n in names]#���ʽ��for �������� in �б�
-
+letters = [len(n) for n in names]
 longest_name = None
 max_letters = 0
 
